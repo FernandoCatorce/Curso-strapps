@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fcm31\\OneDrive\\Documentos\\Strapp\\Curso-strapps\\PROGRAMACION\\CAPITULO 2\\01-Problema 2.2\\01-problema2.2\\01-problema2.2.csproj": {}
+    "C:\\Users\\fcm31\\OneDrive\\Documentos\\Strapp\\Curso-strapps\\PROGRAMACION\\CAPITULO 2\\01-Problema 2.2\\01-problema 2.2\\01-problema 2.2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fcm31\\OneDrive\\Documentos\\Strapp\\Curso-strapps\\PROGRAMACION\\CAPITULO 2\\01-Problema 2.2\\01-problema2.2\\01-problema2.2.csproj": {
+    "C:\\Users\\fcm31\\OneDrive\\Documentos\\Strapp\\Curso-strapps\\PROGRAMACION\\CAPITULO 2\\01-Problema 2.2\\01-problema 2.2\\01-problema 2.2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fcm31\\OneDrive\\Documentos\\Strapp\\Curso-strapps\\PROGRAMACION\\CAPITULO 2\\01-Problema 2.2\\01-problema2.2\\01-problema2.2.csproj",
-        "projectName": "01-problema2.2",
-        "projectPath": "C:\\Users\\fcm31\\OneDrive\\Documentos\\Strapp\\Curso-strapps\\PROGRAMACION\\CAPITULO 2\\01-Problema 2.2\\01-problema2.2\\01-problema2.2.csproj",
+        "projectUniqueName": "C:\\Users\\fcm31\\OneDrive\\Documentos\\Strapp\\Curso-strapps\\PROGRAMACION\\CAPITULO 2\\01-Problema 2.2\\01-problema 2.2\\01-problema 2.2.csproj",
+        "projectName": "01-problema 2.2",
+        "projectPath": "C:\\Users\\fcm31\\OneDrive\\Documentos\\Strapp\\Curso-strapps\\PROGRAMACION\\CAPITULO 2\\01-Problema 2.2\\01-problema 2.2\\01-problema 2.2.csproj",
         "packagesPath": "C:\\Users\\fcm31\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fcm31\\OneDrive\\Documentos\\Strapp\\Curso-strapps\\PROGRAMACION\\CAPITULO 2\\01-Problema 2.2\\01-problema2.2\\obj\\",
+        "outputPath": "C:\\Users\\fcm31\\OneDrive\\Documentos\\Strapp\\Curso-strapps\\PROGRAMACION\\CAPITULO 2\\01-Problema 2.2\\01-problema 2.2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\fcm31\\AppData\\Roaming\\NuGet\\NuGet.Config"
