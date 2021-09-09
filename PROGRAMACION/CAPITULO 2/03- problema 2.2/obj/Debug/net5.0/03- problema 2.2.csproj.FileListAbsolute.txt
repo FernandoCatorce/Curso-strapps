@@ -1,0 +1,5 @@
+C:\Users\fcm31\OneDrive\Documentos\Strapp\Curso-strapps\PROGRAMACION\CAPITULO 2\03- problema 2.2\obj\Debug\net5.0\03- problema 2.2.csproj.AssemblyReference.cache
+C:\Users\fcm31\OneDrive\Documentos\Strapp\Curso-strapps\PROGRAMACION\CAPITULO 2\03- problema 2.2\obj\Debug\net5.0\03- problema 2.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fcm31\OneDrive\Documentos\Strapp\Curso-strapps\PROGRAMACION\CAPITULO 2\03- problema 2.2\obj\Debug\net5.0\03- problema 2.2.AssemblyInfoInputs.cache
+C:\Users\fcm31\OneDrive\Documentos\Strapp\Curso-strapps\PROGRAMACION\CAPITULO 2\03- problema 2.2\obj\Debug\net5.0\03- problema 2.2.AssemblyInfo.cs
+C:\Users\fcm31\OneDrive\Documentos\Strapp\Curso-strapps\PROGRAMACION\CAPITULO 2\03- problema 2.2\obj\Debug\net5.0\03- problema 2.2.csproj.CoreCompileInputs.cache

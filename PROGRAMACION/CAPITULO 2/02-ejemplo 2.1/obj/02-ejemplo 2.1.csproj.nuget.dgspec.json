@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fcm31\\OneDrive\\Documentos\\Strapp\\Curso-strapps\\PROGRAMACION\\CAPITULO 2\\ 02-EJEMPLO 2.1\\02-EJEMPLO 2.1.csproj": {}
+    "C:\\Users\\fcm31\\OneDrive\\Documentos\\Strapp\\Curso-strapps\\PROGRAMACION\\CAPITULO 2\\02-ejemplo 2.1\\02-ejemplo 2.1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fcm31\\OneDrive\\Documentos\\Strapp\\Curso-strapps\\PROGRAMACION\\CAPITULO 2\\ 02-EJEMPLO 2.1\\02-EJEMPLO 2.1.csproj": {
+    "C:\\Users\\fcm31\\OneDrive\\Documentos\\Strapp\\Curso-strapps\\PROGRAMACION\\CAPITULO 2\\02-ejemplo 2.1\\02-ejemplo 2.1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fcm31\\OneDrive\\Documentos\\Strapp\\Curso-strapps\\PROGRAMACION\\CAPITULO 2\\ 02-EJEMPLO 2.1\\02-EJEMPLO 2.1.csproj",
-        "projectName": "02-EJEMPLO 2.1",
-        "projectPath": "C:\\Users\\fcm31\\OneDrive\\Documentos\\Strapp\\Curso-strapps\\PROGRAMACION\\CAPITULO 2\\ 02-EJEMPLO 2.1\\02-EJEMPLO 2.1.csproj",
+        "projectUniqueName": "C:\\Users\\fcm31\\OneDrive\\Documentos\\Strapp\\Curso-strapps\\PROGRAMACION\\CAPITULO 2\\02-ejemplo 2.1\\02-ejemplo 2.1.csproj",
+        "projectName": "02-ejemplo 2.1",
+        "projectPath": "C:\\Users\\fcm31\\OneDrive\\Documentos\\Strapp\\Curso-strapps\\PROGRAMACION\\CAPITULO 2\\02-ejemplo 2.1\\02-ejemplo 2.1.csproj",
         "packagesPath": "C:\\Users\\fcm31\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fcm31\\OneDrive\\Documentos\\Strapp\\Curso-strapps\\PROGRAMACION\\CAPITULO 2\\ 02-EJEMPLO 2.1\\obj\\",
+        "outputPath": "C:\\Users\\fcm31\\OneDrive\\Documentos\\Strapp\\Curso-strapps\\PROGRAMACION\\CAPITULO 2\\02-ejemplo 2.1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\fcm31\\AppData\\Roaming\\NuGet\\NuGet.Config"
