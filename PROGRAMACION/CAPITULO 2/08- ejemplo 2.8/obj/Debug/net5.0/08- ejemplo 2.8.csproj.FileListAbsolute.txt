@@ -1,0 +1,16 @@
+C:\Users\fcm31\OneDrive\Documentos\Strapp\Curso-strapps\PROGRAMACION\CAPITULO 2\08- ejemplo 2.8\obj\Debug\net5.0\08- ejemplo 2.8.csproj.AssemblyReference.cache
+C:\Users\fcm31\OneDrive\Documentos\Strapp\Curso-strapps\PROGRAMACION\CAPITULO 2\08- ejemplo 2.8\obj\Debug\net5.0\08- ejemplo 2.8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fcm31\OneDrive\Documentos\Strapp\Curso-strapps\PROGRAMACION\CAPITULO 2\08- ejemplo 2.8\obj\Debug\net5.0\08- ejemplo 2.8.AssemblyInfoInputs.cache
+C:\Users\fcm31\OneDrive\Documentos\Strapp\Curso-strapps\PROGRAMACION\CAPITULO 2\08- ejemplo 2.8\obj\Debug\net5.0\08- ejemplo 2.8.AssemblyInfo.cs
+C:\Users\fcm31\OneDrive\Documentos\Strapp\Curso-strapps\PROGRAMACION\CAPITULO 2\08- ejemplo 2.8\obj\Debug\net5.0\08- ejemplo 2.8.csproj.CoreCompileInputs.cache
+C:\Users\fcm31\OneDrive\Documentos\Strapp\Curso-strapps\PROGRAMACION\CAPITULO 2\08- ejemplo 2.8\bin\Debug\net5.0\08- ejemplo 2.8.exe
+C:\Users\fcm31\OneDrive\Documentos\Strapp\Curso-strapps\PROGRAMACION\CAPITULO 2\08- ejemplo 2.8\bin\Debug\net5.0\08- ejemplo 2.8.deps.json
+C:\Users\fcm31\OneDrive\Documentos\Strapp\Curso-strapps\PROGRAMACION\CAPITULO 2\08- ejemplo 2.8\bin\Debug\net5.0\08- ejemplo 2.8.runtimeconfig.json
+C:\Users\fcm31\OneDrive\Documentos\Strapp\Curso-strapps\PROGRAMACION\CAPITULO 2\08- ejemplo 2.8\bin\Debug\net5.0\08- ejemplo 2.8.runtimeconfig.dev.json
+C:\Users\fcm31\OneDrive\Documentos\Strapp\Curso-strapps\PROGRAMACION\CAPITULO 2\08- ejemplo 2.8\bin\Debug\net5.0\08- ejemplo 2.8.dll
+C:\Users\fcm31\OneDrive\Documentos\Strapp\Curso-strapps\PROGRAMACION\CAPITULO 2\08- ejemplo 2.8\bin\Debug\net5.0\ref\08- ejemplo 2.8.dll
+C:\Users\fcm31\OneDrive\Documentos\Strapp\Curso-strapps\PROGRAMACION\CAPITULO 2\08- ejemplo 2.8\bin\Debug\net5.0\08- ejemplo 2.8.pdb
+C:\Users\fcm31\OneDrive\Documentos\Strapp\Curso-strapps\PROGRAMACION\CAPITULO 2\08- ejemplo 2.8\obj\Debug\net5.0\08- ejemplo 2.8.dll
+C:\Users\fcm31\OneDrive\Documentos\Strapp\Curso-strapps\PROGRAMACION\CAPITULO 2\08- ejemplo 2.8\obj\Debug\net5.0\ref\08- ejemplo 2.8.dll
+C:\Users\fcm31\OneDrive\Documentos\Strapp\Curso-strapps\PROGRAMACION\CAPITULO 2\08- ejemplo 2.8\obj\Debug\net5.0\08- ejemplo 2.8.pdb
+C:\Users\fcm31\OneDrive\Documentos\Strapp\Curso-strapps\PROGRAMACION\CAPITULO 2\08- ejemplo 2.8\obj\Debug\net5.0\08- ejemplo 2.8.genruntimeconfig.cache
