@@ -21,11 +21,8 @@ namespace _01_Empleados.MVC.Controllers
         public IActionResult Listado()
         {
             return View();
+       
+
         }
-    
-    
     }
-    
-    
 }
-        
