@@ -1,0 +1,5 @@
+C:\Users\fcm31\OneDrive\Documentos\Strapp\Curso-strapps\PROGRAMACION\CAPITULO 2\07 Ejemplo 2.7\obj\Debug\net5.0\07 Ejemplo 2.7.csproj.AssemblyReference.cache
+C:\Users\fcm31\OneDrive\Documentos\Strapp\Curso-strapps\PROGRAMACION\CAPITULO 2\07 Ejemplo 2.7\obj\Debug\net5.0\07 Ejemplo 2.7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fcm31\OneDrive\Documentos\Strapp\Curso-strapps\PROGRAMACION\CAPITULO 2\07 Ejemplo 2.7\obj\Debug\net5.0\07 Ejemplo 2.7.AssemblyInfoInputs.cache
+C:\Users\fcm31\OneDrive\Documentos\Strapp\Curso-strapps\PROGRAMACION\CAPITULO 2\07 Ejemplo 2.7\obj\Debug\net5.0\07 Ejemplo 2.7.AssemblyInfo.cs
+C:\Users\fcm31\OneDrive\Documentos\Strapp\Curso-strapps\PROGRAMACION\CAPITULO 2\07 Ejemplo 2.7\obj\Debug\net5.0\07 Ejemplo 2.7.csproj.CoreCompileInputs.cache
