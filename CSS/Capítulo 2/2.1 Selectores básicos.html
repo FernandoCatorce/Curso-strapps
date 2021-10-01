@@ -1,0 +1,46 @@
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+        <title>Ejemplos de Css</title>
+        <link rel="stylesheet" href="/css/estilos.cs" media="screen">
+        <style type="text/CSS">
+         h1
+         {color: blue; font-weight: normal;font-family:Arial, Helvetica, sans-serif;}
+         h2,h3
+            {
+                color:#8A8E27;
+                font-weight:normal ;
+                font-family: Arial, Helvetica, sans-serif;
+            }
+            p span {color:red;}
+            p, a, span em {text-decoration:underline ;}
+            .destacado {color: red;}
+            .aviso {padding: 0.5em;
+                   border:1px; 
+                font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+                   background:rgb(238, 255, 4);}
+            .error{
+                color: #930;
+                font-weight:bold; }    
+      </style>
+    </head>
+      
+        <body>
+       <h1>Estilo 1</h1>
+       <h2>Estilo 2</h2>
+       <h3>Estilo 3</h3>    
+                     <p>P&aacute;rrafos con p span</p>
+                    
+                     <p>
+                        <span>Texto 1</span>
+                        <a href="https://uniwebsidad.com/libros/css/capitulo-2/selectores-basicos">
+                            Texto 2 con enlace</a>
+                            <br> <p class="destacado" >Lorem ipsum dolor sit amet consectetur
+                                 adipisicing elit. Debitis quod eligendi in est? Possimus quam non,
+                                 assumenda repellendus quaerat numquam distinctio?
+                                 Dolores nisi distinctio quam eius sint cum rerum autem?</p></p></br>
+                                    <span class="error">error</span>
+                                    <div class="aviso">aviso</div>       
+                     </p>
+    </body>
+</html>
