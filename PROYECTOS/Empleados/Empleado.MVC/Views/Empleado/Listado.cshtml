@@ -1,0 +1,130 @@
+<h1>Empleado - Listado de personal</h1>
+<br />
+
+<h2>Listado de personal</h2>
+
+<br />
+<a href="~/Empleado/listado">Agregar Empleado</a>
+
+<table style="widt: 100%;">
+   <thead>
+      <tr>
+         <th>Id de Empleado</th>
+         &nbsp;
+
+         &nbsp;
+         <th>Nombre</th>
+         &nbsp;
+
+         &nbsp;
+         <th>Puesto</th>
+         &nbsp;
+
+         &nbsp;
+         <th>Telefono</th>
+         &nbsp;
+
+         &nbsp;
+         <th>Correo electrónico</th>
+
+         <th>Consultar</th>
+
+         <th>
+            <a href="~/Empleado/Editar">Editar</a>
+         </th>
+
+         <th>
+            <a href="~/Empleado/consultar">Consultar</a>
+         </th>
+
+         <th>
+            <a href="#">Eliminar</a>
+         </th>
+      </tr>
+   </thead>
+
+   <table style="widt: 100%;">
+      <tbody>
+         <tr>
+            <td>001</td>
+            &nbsp;
+
+            &nbsp;
+            <td>JUANITO PEREZ PEREZ</td>
+            &nbsp;
+
+            &nbsp;
+            <td>DESARROLLADOR MOVIL</td>
+            &nbsp;
+
+            &nbsp;
+            <td>11-11-11-11-11</td>
+            &nbsp;
+
+            &nbsp;
+            <td>juanito@correo.com</td>
+
+            <td>Consultar</td>
+
+            <td>
+               <a href="~/Empleado/Editar">Editar</a>
+            </td>
+
+            <td>
+               <a href="~/Empleado/consultar">Consultar</a>
+            </td>
+
+            <td>
+               <a href="#">Eliminar</a>
+            </td>
+         </tr>
+         <tr>
+            <td>002</td>
+            &nbsp;
+
+            &nbsp;
+            <td>MARIA HERNANDEZ HERNANDEZ</td>
+            &nbsp;
+
+            &nbsp;
+            <td>DIRECTOR GENERAL</td>
+            &nbsp;
+
+            &nbsp;
+            <td>22-22-22-22-22</td>
+            &nbsp;
+
+            &nbsp;
+            <td>mariah@correo.com</td>
+
+            <td>Consultar</td>
+
+            <td>
+               <a href="~/Empleado/Editar">Editar</a>
+            </td>
+
+            <td>
+               <a href="~/Empleado/consultar">Consultar</a>
+            </td>
+
+            <td <a href="#">Eliminar</a>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+
+   <script>
+      function IniniciarPagina(){
+         var xhr = new XMLHttpRequest();
+         xhr.withCredentials = true;
+
+         xhr.addEventListener("readystatechange", function(){
+            if(this.readyState === 4) {
+               console.log(this.responseText);
+            }
+            });
+
+       xhr.open("GET", "http://localhost:5003/Empleados");
+       xhr.send();
+      }     
+   </script>

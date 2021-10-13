@@ -1,0 +1,34 @@
+body{
+    margin: 0px;
+}
+div{margin: 12px;}
+h1{
+    border: rgb(180, 182, 44) solid  3px; 
+    margin: 10px 10px 0px 10px ;
+}
+h5{
+    border: rgb(199, 218, 35) solid  3px; 
+    margin: 0px 10px 10px 10px ;
+}
+h3{
+    margin:0px 10px 10px 10px ;
+    
+    
+}
+.bloque{
+    width: 150px;
+    height: 350px;
+    
+}
+.subtitulos{
+    font-size: large;
+   
+}
+thead{
+    border: cornflowerblue  solid  3px; 
+    margin: 10px 10px 0px 10px ;
+}
+p{
+    margin: 10px 10px 10px 10px ;
+   border: rgb(28, 167, 192) solid;
+}
